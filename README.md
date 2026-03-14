@@ -63,8 +63,8 @@ Além disso, foi criado um **menu lateral interativo** para facilitar a navegaç
 
 ### Página Principal
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.jpg)
 
 ### Base de Dados
 
-![Dashboard](análitico.png)
+![Dashboard](análitico.jpg)
