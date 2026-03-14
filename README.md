@@ -57,11 +57,3 @@ Além disso, foi criado um **menu lateral interativo** para facilitar a navegaç
 - Modelagem básica de dados  
   
 
----
-
-##  Dashboard
-
-### Página Principal
-
-![Dashboard](dashboard.jpg)
-
